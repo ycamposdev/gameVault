@@ -39,7 +39,7 @@ const Modal = ({ show, onClose, videojuego }) => {
             className="mt-3 w-full inline-flex justify-center rounded-md border border-transparent shadow-sm px-4 py-2 bg-red-600 text-base font-medium text-white hover:bg-red-700 sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm "
             onClick={onClose}
           >
-            Close
+            Cerrar
           </button>
         </div>
       </div>

@@ -5,7 +5,6 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import Titulo from "./Titulo";
 import Buscador from "./Buscador";
-import { Api } from "./Api";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
